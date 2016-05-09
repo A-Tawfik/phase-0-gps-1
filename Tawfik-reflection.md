@@ -4,11 +4,9 @@
 2. What concepts were clarified during the GPS?
     * The push concept was very much clarified. Also the actions of 2 separate people using the same GitHub project was greatly clarified. The owner vs assignee features, while not directly addressed, came up after our first pull request and merge and helped me to understand merge procedure.
 
-
 3. What questions did you ask your pair and the guide?
     * The concept of `git push` and what makes a good comment during a commit/merge
     * The idea of fetch and merge was difficult to grasp and we discussed with my pair and the guide
-
 
 4. What still confuses you about Git?
     * Why and how a conflict occurs in merging in a nuanced way. As per how line# or blank spaces create merge conflicts. We both agreed to work on creating conflicts independently to gain a better grasp on merge conflicts
